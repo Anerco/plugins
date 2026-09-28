@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "anerco",
+  "description": "Claude Code mods by Aner Cohen",
+  "owner": {
+    "name": "Aner Cohen"
+  },
+  "plugins": [
+    {
+      "name": "effort-cycle",
+      "description": "Alt+E steps the effort level up and Alt+Shift+E down; the footer shows the model and level as they change",
+      "author": {
+        "name": "Aner Cohen"
+      },
+      "source": {
+        "source": "github",
+        "repo": "Anerco/effort-cycle-mod"
+      },
+      "homepage": "https://github.com/Anerco/effort-cycle-mod"
+    }
+  ]
+}
