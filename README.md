@@ -1,6 +1,6 @@
 # plugins
 
-Claude Code plugins and mods by Aner Cohen.
+Claude Code plugins and mods
 
 ```
 /plugin marketplace add Anerco/plugins
